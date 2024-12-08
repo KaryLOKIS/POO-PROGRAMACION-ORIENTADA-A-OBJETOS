@@ -1,6 +1,7 @@
 print("Tecnicas de Prigramacion")
 print("Abstraccio,Encapsulacion,Herencia,Polimorfismo")
 from abc import ABC, abstractmethod
+
 #ABSTRACCION
 # Clase abstracta que define un método que debe implementarse en las clases derivadas
 class Animal(ABC):
