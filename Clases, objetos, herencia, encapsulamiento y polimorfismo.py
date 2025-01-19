@@ -22,7 +22,7 @@ class Animal:
     def get_edad(self):
         return self.__edad
 
-    # Método que puede ser sorbreescrito
+    # metodo sobrescrito
     def emitir_sonido(self):
         return "Sonido genérico de un animal"
 
@@ -37,7 +37,7 @@ class Perro(Animal):
         super().__init__(nombre, "perro", edad)
         self.raza = raza  # Atributo específico de la clase derivada
 
-    # Sobreescritura de un método (polimorfismo)
+    # Sobreescritura del metodo polimorfsimo
     def emitir_sonido(self):
         return "Guau"
 
@@ -52,7 +52,7 @@ class Gato(Animal):
         super().__init__(nombre, "gato", edad)
         self.color = color  # Atributo específico de la clase derivada
 
-    # Sobreescritura de un método (polimorfismo)
+    # Sobreescritura del metodo polimorfismo
     def emitir_sonido(self):
         return "Miau"
 
