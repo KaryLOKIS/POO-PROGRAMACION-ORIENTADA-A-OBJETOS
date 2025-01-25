@@ -28,4 +28,4 @@ class Archivo:
 archivo1 = Archivo("documento.txt")
 archivo1.escribir("Este es un texto de ejemplo para el archivo.")
 
-# Al finalizar, Python automáticamente llamará al destructor cuando el objeto ya no esté en uso
+# Al finalizar, automáticamente llamará al destructor cuando el objeto ya no esté en uso
