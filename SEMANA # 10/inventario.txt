@@ -1,0 +1,1 @@
+[{"codigo": "001", "nombre": "Laptop", "precio": 1500.0, "cantidad": 10}, {"codigo": "002", "nombre": "Mouse", "precio": 25.0, "cantidad": 50}, {"codigo": "003", "nombre": "Teclado", "precio": 45.0, "cantidad": 30}, {"codigo": "004", "nombre": "pantalla", "precio": 25.0, "cantidad": 8}]

@@ -1,0 +1,37 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 54C5-694E
+C:.
+¦   Clases, objetos, herencia, encapsulamiento y polimorfismo.py
+¦   estructura.txt
+¦   README.md
+¦   TECNICAS DE PROGRAMACION.py
+¦   
++---.idea
+¦   ¦   .gitignore
+¦   ¦   misc.xml
+¦   ¦   modules.xml
+¦   ¦   POO-PROGRAMACION-ORIENTADA-A-OBJETOS.iml
+¦   ¦   vcs.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---inspectionProfiles
+¦           profiles_settings.xml
+¦           
++---Comparación de Programación Tradicional y POO
+¦       programacion POO.py
+¦       programacion tradicional.py
+¦       
++---Constructores y Destructores POO
+¦       CONSTRUCTOR.py
+¦       DESTRUCTOR.py
+¦       documento.txt
+¦       
++---Ejemplos Mundo Real POO
+¦       Ejemplo de Biblioteca.py
+¦       Ejemplo de reserva de hotel.py
+¦       Ejemplo de una Tienda.py
+¦       
++---Tipos de Datos , Identificadores
+        Conversion de Temperaturas.py
+        Ejemplo de Identificador.py
+        
