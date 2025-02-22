@@ -1,3 +1,6 @@
+print("Semana #10")
+print("Manipulacion de archivos y manejo de excepciones")
+
 import os
 import json
 
